@@ -1,0 +1,90 @@
+Flor das três folhagens espirituais
+
+ - Caracteristicas: Uma flor roxo-claro com três petalas
+ - Efeitos: Envenena o espirito(efeito muito baixo)
+ - Grade: Desconhecido(Muito Baixo)
+
+Capim proibido
+
+ - Caracteristicas: Se parece com um capim normal
+ - Efeitos: Enfraquece o corpo (efeito muito baixo)
+ - Grade: Desconhecido (Muito baixo)
+
+Erva de dente afiado
+
+ - Caracteristicas: Se parece com um capim normal
+ - Efeitos: Desconhecidos
+ - Grade: Desconhecido (Muito baixo)
+
+Cogumelo Sanguíneo
+
+ - Caracteristicas: É um cogumelo de tamanho mediano da cor vermelha, exala uma pequena aura vermelha
+ - Efeitos: Desconhecidos
+ - Grade: Desconhecido (Baixo)
+
+Fruta Espiritual QI Celeste
+
+ - Caracteristicas: Desconhecido
+ - Efeitos: Desconhecido
+ - Grade: Grau espiritual da classe terra
+
+Furta Espiritual Atributo Yang
+
+ - Caracteristicas: Aumenta/Ajuda na cultivação do atributo yang
+ - Efeitos: Desconhecido
+ - Grade: Grau inferior
+
+Flor Real Solar
+
+ - Caracteristicas: Desconhecidos(att yang)
+ - Efeitos: Desconhecido
+ - Grade: Grau inferior classe terra
+
+Ginseng Yinyang
+ 
+ - Caracteristicas: Contem QI Yin Yang muito poderoso, necessita cultivo duplo
+ - Efeitos: Desconhecido
+ - Grade: Classe Ethereal Grau Superior
+
+Dark Ethereal
+
+ - Caracteristicas:
+ - Efeitos: 
+ - Grade: 
+
+Beauty Blossom
+
+ - Caracteristicas: Uma flor rosa claro com seis petalas
+ - Efeitos: efeitos de embelezamento
+ - Grade: Grau inferior e da classe terra
+
+Chama Brilhante Líquida
+
+ - Caracteristicas: Desconhecida
+ - Efeitos: Purifica o QI Verdadeiro
+ - Grade: Desconhecida
+
+Orvalho Soul Cleansing
+
+ - Caracteristicas: Uma gota de orvalho formada apartir de uma nevoa que corroi a alma, sua cor é dourada e tem sabor de mel com vinho
+ - Efeitos: Purifica a alma, permitindo cultivar a alma e o senso divino para alcançar a ascensão imortal
+ - Grade: Desconhecida
+
+Leite Myriad Drug
+
+ - Caracteristicas: Se parece com um leite normal
+ - Efeitos: Feito com milhares de pílulas de alta qualidade, efeitos tremendos
+ - Grade: Desconhecida
+
+Frutas Espirituais Malígnas
+
+ - Caracteristicas: Uma fruta redonda da cor roxa, exala QI demoniaco
+ - Efeitos: Desconhecidos
+ - Grade: Desconhecidos
+
+Soul Warming Lotus
+
+ - Caracteristicas: Uma lotus que pode possuir até sete cores
+ - Efeitos: Nourishes and protects the Divine Soul	
+ - Grade: Heavenly Treasure
+
